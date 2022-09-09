@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892366349462",
+    "project_id": "torneiohp-3a805",
+    "storage_bucket": "torneiohp-3a805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892366349462:android:2fda150e4ad62ef3804eb7",
+        "android_client_info": {
+          "package_name": "com.example.back_end_torneio_dk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892366349462-2hf19qtf8b55rsq1dfvr8gugo4mopms9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7IJzkjYjZs7tSu_1gmyfzoAL-Kut9aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892366349462-2hf19qtf8b55rsq1dfvr8gugo4mopms9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
